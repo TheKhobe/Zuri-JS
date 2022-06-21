@@ -1,1 +1,1 @@
-# Zuri-JS
+https://thekhobe.github.io/Zuri-JS/
